@@ -1,0 +1,24 @@
+# Logs
+logs
+*.Logs
+# Compiled directory and file
+build/
+./bundle.js
+# Dependency directories
+./node_modules/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+monere/db.sqlite3
+monere/to do.txt
+monere/config/secret_settings.py
+.DS_Store
+
+instructions.txt
+
+
+
+
